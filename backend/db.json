@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Vera Lynn",
+      "email": "vera.lynn@email.com"
+    },
+    {
+      "id": 2,
+      "name": "Johnny Be Good",
+      "email": "johnny.b.good@email.com"
+    },
+    {
+      "name": "David Gilmour",
+      "email": "david.gilmour@email.com",
+      "id": 3
+    },
+    {
+      "name": "Roger Waters",
+      "email": "roger.water@email.com",
+      "id": 4
+    },
+    {
+      "name": "Syd Barnet",
+      "email": "sid.barnet@email.com",
+      "id": 5
+    }
+  ]
+}
